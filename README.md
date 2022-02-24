@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JuanTorresSoto
+- 👋 Hi, I’m Juan
 - 👀 I’m interested in sports analytics. 
-- 🌱 I’m currently learning R and SQL. 
-- 💞️ I’m looking to collaborate on any projects that can help me learn and improve.
+- 🌱 I’m currently learning R and SQL.
 - 📫 How to reach me Twitter:@travolta893 
 
 <!---
