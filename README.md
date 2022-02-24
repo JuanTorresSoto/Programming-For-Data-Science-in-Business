@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juan
-- 👀 I’m interested in sports analytics. 
+- 👀 I’m interested in anything analytics. 
 - 🌱 I’m currently learning R and SQL.
 - 📫 How to reach me Twitter:@travolta893 
 
