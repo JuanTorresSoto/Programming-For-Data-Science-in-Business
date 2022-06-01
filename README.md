@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Juan
--  I’m interested in anything analytics. Working on building my first portfolio to reference for future job applications. 
--  I’m currently learning R and SQL. Obtained the Google Data Analytics Professional Certificate. 
+-  I’m interested in anything analytics. 
+-  Working on building my first portfolio to reference for future job applications. 
+-  Further developing my R and SQL. 
+-  Obtained the Google Data Analytics Professional Certificate. 
 -  How to reach me Twitter:@travolta93 Via LinkedIn: www.linkedin.com/in/Juan-Torres-Soto
 
 <!---
