@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Juan
 -  I’m interested in anything analytics. 
 -  Working on building my first portfolio to reference for future job applications. 
--  Further developing my R and SQL skills. 
+-  Further developing my SQL, Python and R skills.
+-  Finance and Business Analytics Professional 
 -  Obtained the Google Data Analytics Professional Certificate. 
 -  Reach me  Via LinkedIn: www.linkedin.com/in/Juan-Torres-Soto
 
