@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Juan
--  I’m interested in anything analytics. 
--  Working on building my first portfolio to reference for future job applications. 
--  Further developing my SQL, Python and R skills.
--  Finance and Business Analytics Professional 
--  Obtained the Google Data Analytics Professional Certificate. 
--  Reach me  Via LinkedIn: www.linkedin.com/in/Juan-Torres-Soto
+- 👋 In this repository you will find some of my Python code that I learned in my Programming for Data Science in Business
 
 <!---
 JuanTorresSoto/JuanTorresSoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
